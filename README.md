@@ -31,7 +31,7 @@ Please Note: Application will take some time to boot up
 
 ### Clone the repository:
 
-    git clone https://github.com/ZeeshanAli-0704/E-Commerce-react-node-mysql.git
+    git clone https://github.com/4mubarak/E-Commerce-react-node-mysql.git
 
 ### Server Setup: 
 
